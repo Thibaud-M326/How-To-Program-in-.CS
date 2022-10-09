@@ -7,7 +7,7 @@
       "type": "process",
       "args": [
         "build",
-        "${workspaceFolder}/ex04/ex04.csproj",
+        "${workspaceFolder}/ex05/ex05.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -19,7 +19,7 @@
       "type": "process",
       "args": [
         "publish",
-        "${workspaceFolder}/ex04/ex04.csproj",
+        "${workspaceFolder}/ex05/ex05.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -33,7 +33,7 @@
         "watch",
         "run",
         "--project",
-        "${workspaceFolder}/ex04/ex04.csproj"
+        "${workspaceFolder}/ex05/ex05.csproj"
       ],
       "problemMatcher": "$msCompile"
     }

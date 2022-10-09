@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex04\\ex04.csproj": {}
+    "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex05\\ex05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex04\\ex04.csproj": {
+    "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex05\\ex05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex04\\ex04.csproj",
-        "projectName": "ex04",
-        "projectPath": "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex04\\ex04.csproj",
+        "projectUniqueName": "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex05\\ex05.csproj",
+        "projectName": "ex05",
+        "projectPath": "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex05\\ex05.csproj",
         "packagesPath": "C:\\Users\\Thibaud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex04\\obj\\",
+        "outputPath": "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thibaud\\AppData\\Roaming\\NuGet\\NuGet.Config"
