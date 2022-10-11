@@ -1,0 +1,15 @@
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\bin\Debug\net6.0\Combats.exe
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\bin\Debug\net6.0\Combats.deps.json
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\bin\Debug\net6.0\Combats.runtimeconfig.json
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\bin\Debug\net6.0\Combats.dll
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\bin\Debug\net6.0\Combats.pdb
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\obj\Debug\net6.0\Combats.csproj.AssemblyReference.cache
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\obj\Debug\net6.0\Combats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\obj\Debug\net6.0\Combats.AssemblyInfoInputs.cache
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\obj\Debug\net6.0\Combats.AssemblyInfo.cs
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\obj\Debug\net6.0\Combats.csproj.CoreCompileInputs.cache
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\obj\Debug\net6.0\Combats.dll
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\obj\Debug\net6.0\refint\Combats.dll
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\obj\Debug\net6.0\Combats.pdb
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\obj\Debug\net6.0\Combats.genruntimeconfig.cache
+C:\Users\Thibaud\Desktop\Exercices Codage\C#\How-To-Program-in-.CS\Combats\obj\Debug\net6.0\ref\Combats.dll

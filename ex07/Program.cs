@@ -6,8 +6,21 @@ namespace My_Awesome_Program
     {
         public string name;
         public string favoriteSpell;
-        public int spellSlots;
-        public float experience;
+        private int spellSlots;
+        private float experience;
+
+        public static int Count;
+
+        public Wizard(string _name, string _favoriteSpell)
+        {
+            name = _name;
+            favoriteSpell = _favoriteSpell;
+            spellSlots = 2;
+            experience = 0f;
+            
+            Count++;
+        }
+
 
         public void CastSpell()
         {
@@ -34,20 +47,15 @@ namespace My_Awesome_Program
     {
         static void Main(string[] args)
         {
-            Wizard wizard01 = new Wizard();
-            wizard01.name = "Parry Hopper";
-            wizard01.favoriteSpell = "Unexpecto Patronum";
-            wizard01.spellSlots = 2;
-            wizard01.experience = 0f;
+            Wizard wizard01 = new Wizard("Parry Hopper", "Expecto Patronum");
 
             wizard01.CastSpell();
-            wizard01.CastSpell();
-            wizard01.CastSpell();
-            wizard01.Meditate();
-            wizard01.CastSpell();
-            wizard01.CastSpell();
 
-            Console.WriteLine(wizard01.name + " gained " + wizard01.experience + " xp");
+            Wizard wizard02 = new Wizard("Gandalf sprouts", "Abracadabra");
+
+            wizard02.CastSpell();
+
+            Console.WriteLine(Wizard.Count);
 
             Console.ReadKey();
         }

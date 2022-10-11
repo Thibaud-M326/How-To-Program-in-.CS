@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex07\\ex07.csproj": {}
+    "C:\\Users\\Thibaud\\Desktop\\Exercices Codage\\C#\\How-To-Program-in-.CS\\ex07\\ex07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex07\\ex07.csproj": {
+    "C:\\Users\\Thibaud\\Desktop\\Exercices Codage\\C#\\How-To-Program-in-.CS\\ex07\\ex07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex07\\ex07.csproj",
+        "projectUniqueName": "C:\\Users\\Thibaud\\Desktop\\Exercices Codage\\C#\\How-To-Program-in-.CS\\ex07\\ex07.csproj",
         "projectName": "ex07",
-        "projectPath": "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex07\\ex07.csproj",
+        "projectPath": "C:\\Users\\Thibaud\\Desktop\\Exercices Codage\\C#\\How-To-Program-in-.CS\\ex07\\ex07.csproj",
         "packagesPath": "C:\\Users\\Thibaud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thibaud\\Desktop\\C#\\How-To-Program-in-.CS\\ex07\\obj\\",
+        "outputPath": "C:\\Users\\Thibaud\\Desktop\\Exercices Codage\\C#\\How-To-Program-in-.CS\\ex07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thibaud\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -7,7 +7,7 @@
       "type": "process",
       "args": [
         "build",
-        "${workspaceFolder}/ex07/ex07.csproj",
+        "${workspaceFolder}/Combats/Combats.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -19,7 +19,7 @@
       "type": "process",
       "args": [
         "publish",
-        "${workspaceFolder}/ex07/ex07.csproj",
+        "${workspaceFolder}/Combats/Combats.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -33,7 +33,7 @@
         "watch",
         "run",
         "--project",
-        "${workspaceFolder}/ex07/ex07.csproj"
+        "${workspaceFolder}/Combats/Combats.csproj"
       ],
       "problemMatcher": "$msCompile"
     }
